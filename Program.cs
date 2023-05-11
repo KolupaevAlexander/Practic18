@@ -72,8 +72,9 @@ namespace Practic18
             var list = new List<string>();
             for (int i = 0; i < Math.Pow(2, data.Length); i++) 
             {
-                if (SetSum(data, GenerateCode(i, data.Length))== needSum)
-                list.Add(GenerateCode(i, data.Length));
+                var temp = GenerateCode(i, data.Length);
+                if (SetSum(data, temp)== needSum)
+                list.Add(temp);
             }
             return list;
         }
