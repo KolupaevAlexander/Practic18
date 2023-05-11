@@ -1,0 +1,31 @@
+C:\Users\325L-01\Desktop\Колупае\Практика 18\bin\Debug\Практика 18.exe.config
+C:\Users\325L-01\Desktop\Колупае\Практика 18\bin\Debug\Практика 18.exe
+C:\Users\325L-01\Desktop\Колупае\Практика 18\bin\Debug\Практика 18.pdb
+C:\Users\325L-01\Desktop\Колупае\Практика 18\obj\Debug\Практика 18.csproj.AssemblyReference.cache
+C:\Users\325L-01\Desktop\Колупае\Практика 18\obj\Debug\Практика 18.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-01\Desktop\Колупае\Практика 18\obj\Debug\Практика 18.csproj.CoreCompileInputs.cache
+C:\Users\325L-01\Desktop\Колупае\Практика 18\obj\Debug\Практика 18.exe
+C:\Users\325L-01\Desktop\Колупае\Практика 18\obj\Debug\Практика 18.pdb
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\Практика 18.exe.config
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\Практика 18.exe
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\Практика 18.pdb
+C:\Users\325L-05\Desktop\Колупаев Практика 18\obj\Debug\Практика 18.csproj.AssemblyReference.cache
+C:\Users\325L-05\Desktop\Колупаев Практика 18\obj\Debug\Практика 18.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-05\Desktop\Колупаев Практика 18\obj\Debug\Практика 18.csproj.CoreCompileInputs.cache
+C:\Users\325L-05\Desktop\Колупаев Практика 18\obj\Debug\Практика 18.exe
+C:\Users\325L-05\Desktop\Колупаев Практика 18\obj\Debug\Практика 18.pdb
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\SumSetTests.dll
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\SumSetTests.pdb
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\325L-05\Desktop\Колупаев Практика 18\obj\Debug\Практика 18.csproj.CopyComplete

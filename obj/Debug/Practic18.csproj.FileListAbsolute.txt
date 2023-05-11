@@ -1,0 +1,16 @@
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\Практика 18.exe.config
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\Практика 18.exe
+C:\Users\325L-05\Desktop\Колупаев Практика 18\bin\Debug\Практика 18.pdb
+C:\Users\325L-05\Desktop\Колупаев Практика 18\obj\Debug\Practic18.csproj.AssemblyReference.cache
+C:\Users\325L-05\Desktop\Колупаев Практика 18\obj\Debug\Practic18.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-05\Desktop\Колупаев Практика 18\obj\Debug\Practic18.csproj.CoreCompileInputs.cache
+C:\Users\325L-05\Desktop\Колупаев Практика 18\obj\Debug\Практика 18.exe
+C:\Users\325L-05\Desktop\Колупаев Практика 18\obj\Debug\Практика 18.pdb
+C:\Users\325L-05\Desktop\Колупаев ПР-21\Колупаев Практика 18\bin\Debug\Практика 18.exe.config
+C:\Users\325L-05\Desktop\Колупаев ПР-21\Колупаев Практика 18\bin\Debug\Практика 18.exe
+C:\Users\325L-05\Desktop\Колупаев ПР-21\Колупаев Практика 18\bin\Debug\Практика 18.pdb
+C:\Users\325L-05\Desktop\Колупаев ПР-21\Колупаев Практика 18\obj\Debug\Practic18.csproj.AssemblyReference.cache
+C:\Users\325L-05\Desktop\Колупаев ПР-21\Колупаев Практика 18\obj\Debug\Practic18.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-05\Desktop\Колупаев ПР-21\Колупаев Практика 18\obj\Debug\Practic18.csproj.CoreCompileInputs.cache
+C:\Users\325L-05\Desktop\Колупаев ПР-21\Колупаев Практика 18\obj\Debug\Практика 18.exe
+C:\Users\325L-05\Desktop\Колупаев ПР-21\Колупаев Практика 18\obj\Debug\Практика 18.pdb
