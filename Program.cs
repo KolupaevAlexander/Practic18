@@ -18,7 +18,7 @@ namespace Practic18
         public static string SumSetFinder(string number, string path)
         {
             short m;
-            if (Enter(number, out m))
+            if (Int16.TryParse(number, out m))
             {
                 short[] data = new short[33554432];
                 string answer = "";
@@ -62,10 +62,6 @@ namespace Practic18
                 }
             }
             else return "Ввод неверен";
-        }
-        public static bool Enter(string number, out short output)
-        {
-            return Int16.TryParse(number, out output);
         }
         public static List<string> Count(short[] data, int needSum)
         {
